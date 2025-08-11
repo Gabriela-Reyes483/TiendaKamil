@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4815000-462E-4388-A867-CE442F777BB6}|Kamil\\Kamil.csproj|c:\\users\\76025\\desktop\\bbbb\\tiendakamil\\kamil\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4815000-462E-4388-A867-CE442F777BB6}|Kamil\\Kamil.csproj|solutionrelative:kamil\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4815000-462E-4388-A867-CE442F777BB6}|Kamil\\Kamil.csproj|c:\\users\\76025\\desktop\\bbbb\\tiendakamil\\kamil\\kamilcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4815000-462E-4388-A867-CE442F777BB6}|Kamil\\Kamil.csproj|solutionrelative:kamil\\kamilcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4815000-462E-4388-A867-CE442F777BB6}|Kamil\\Kamil.csproj|c:\\users\\76025\\desktop\\bbbb\\tiendakamil\\kamil\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4815000-462E-4388-A867-CE442F777BB6}|Kamil\\Kamil.csproj|solutionrelative:kamil\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4815000-462E-4388-A867-CE442F777BB6}|Kamil\\Kamil.csproj|c:\\users\\76025\\desktop\\bbbb\\tiendakamil\\kamil\\views\\empleadosview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4815000-462E-4388-A867-CE442F777BB6}|Kamil\\Kamil.csproj|solutionrelative:kamil\\views\\empleadosview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4815000-462E-4388-A867-CE442F777BB6}|Kamil\\Kamil.csproj|C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\kamil\\views\\centrosview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B4815000-462E-4388-A867-CE442F777BB6}|Kamil\\Kamil.csproj|solutionrelative:kamil\\views\\centrosview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4815000-462E-4388-A867-CE442F777BB6}|Kamil\\Kamil.csproj|C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\kamil\\views\\directivosview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B4815000-462E-4388-A867-CE442F777BB6}|Kamil\\Kamil.csproj|solutionrelative:kamil\\views\\directivosview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4815000-462E-4388-A867-CE442F777BB6}|Kamil\\Kamil.csproj|C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\kamil\\views\\empleadosview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B4815000-462E-4388-A867-CE442F777BB6}|Kamil\\Kamil.csproj|solutionrelative:kamil\\views\\empleadosview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4815000-462E-4388-A867-CE442F777BB6}|Kamil\\Kamil.csproj|C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\kamil\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B4815000-462E-4388-A867-CE442F777BB6}|Kamil\\Kamil.csproj|solutionrelative:kamil\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\Kamil\\Form1.cs",
+              "RelativeDocumentMoniker": "Kamil\\Form1.cs",
+              "ToolTip": "C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\Kamil\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Kamil\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T04:52:37.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpleadosView.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\Kamil\\Views\\EmpleadosView.cs",
+              "RelativeDocumentMoniker": "Kamil\\Views\\EmpleadosView.cs",
+              "ToolTip": "C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\Kamil\\Views\\EmpleadosView.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Kamil\\Views\\EmpleadosView.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T04:37:40.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DirectivosView.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\Kamil\\Views\\DirectivosView.cs",
+              "RelativeDocumentMoniker": "Kamil\\Views\\DirectivosView.cs",
+              "ToolTip": "C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\Kamil\\Views\\DirectivosView.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Kamil\\Views\\DirectivosView.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T04:37:35.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CentrosView.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\Kamil\\Views\\CentrosView.cs",
+              "RelativeDocumentMoniker": "Kamil\\Views\\CentrosView.cs",
+              "ToolTip": "C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\Kamil\\Views\\CentrosView.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Kamil\\Views\\CentrosView.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T04:37:32.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadosView.cs",
+              "DocumentMoniker": "C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\Kamil\\Views\\EmpleadosView.cs",
+              "RelativeDocumentMoniker": "Kamil\\Views\\EmpleadosView.cs",
+              "ToolTip": "C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\Kamil\\Views\\EmpleadosView.cs",
+              "RelativeToolTip": "Kamil\\Views\\EmpleadosView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T04:48:26.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\Kamil\\Models.cs",
+              "RelativeDocumentMoniker": "Kamil\\Models.cs",
+              "ToolTip": "C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\Kamil\\Models.cs",
+              "RelativeToolTip": "Kamil\\Models.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAwAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T02:52:54.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KamilContext.cs",
+              "DocumentMoniker": "C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\Kamil\\KamilContext.cs",
+              "RelativeDocumentMoniker": "Kamil\\KamilContext.cs",
+              "ToolTip": "C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\Kamil\\KamilContext.cs",
+              "RelativeToolTip": "Kamil\\KamilContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T02:52:48.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\Kamil\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Kamil\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\76025\\Desktop\\BBBB\\TiendaKamil\\Kamil\\Form1.Designer.cs",
+              "RelativeToolTip": "Kamil\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T01:52:49.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

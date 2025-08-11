@@ -32,5 +32,27 @@ namespace Kamil
                 MessageBox.Show($"Error al conectar a la base de datos: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void LoadInPanel(Control control)
+        {
+            panelMain.Controls.Clear();
+            control.Dock = DockStyle.Fill;
+            panelMain.Controls.Add(control);
+        }
+
+        private void empleadosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            LoadInPanel(new Views.EmpleadosView());
+        }
+
+        private void directivosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            LoadInPanel(new Views.DirectivosView());
+        }
+
+        private void centrosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            LoadInPanel(new Views.CentrosView());
+        }
     }
 }
